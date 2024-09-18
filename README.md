@@ -19,7 +19,7 @@ Este ficheiro contém os seguintes:
 
 ## Descrição
 
-JP Calc is a compiler written in C++/OCaml that performs arithmetic operations with Japanese unicode characters. It also provides some algorithms and data structures frequently used in competitive programs that popular languages don't include by default.
+Calc-cpp is a compiler written in C++/OCaml that performs arithmetic operations with Japanese unicode characters.
 
 ## Execução
 
